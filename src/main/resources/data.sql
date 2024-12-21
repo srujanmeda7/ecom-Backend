@@ -1,0 +1,1 @@
+-- insert into product(name,descr,brand,price,category,release_date,available,quantity)values('dj','hvds','tata',750.00,'cars','2024-01-05',true,50);
